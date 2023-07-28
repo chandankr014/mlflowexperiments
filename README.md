@@ -5,3 +5,7 @@ MLFLOW_TRACKING_USERNAME=krishnaik06 \
 MLFLOW_TRACKING_PASSWORD=7104284f1bb44ece21e0e2adb4e36a250ae3251f \
 python script.py
 
+##################
+
+Using MLFLOW we can get details of models trained and on every change in parameter a new model detail is recorded,
+we can also compare all models by using the cmd : mlflow ui
